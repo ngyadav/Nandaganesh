@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Python, Java or Javascript**
 
-- 👨‍💻 All of my projects are available: [here](https://github.com/RohanDinesh?tab=repositories)
+- 👨‍💻 All of my projects are available: [here]()
 
 - 💬 Ask me about **Tech, coding or sports**
 
-- 📫 How to reach me: **rohandinesh.blr@gmail.com**
+- 📫 How to reach me: **@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
