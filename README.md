@@ -10,21 +10,22 @@
 - ☁️ Experienced in **Google Cloud, AWS, Docker & Kubernetes**  
 - 🤝 Open to collaborate on **Full Stack, Cloud, and AI projects**  
 - 💬 Ask me about **React, FastAPI, System Design, or Cloud Architecture**
-- 👨‍💻 All of my projects are available: [here](https://github.com/ngyadav?tab=repositories)  
+- 👨‍💻 All of my projects are available: 
+<a href="https://github.com/ngyadav?tab=repositories" target="_blank" rel="noopener noreferrer">here</a>
 - 📫 Reach me at: **nandaganesh55@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nanda-ganesh-6b02b6225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanda-ganesh" height="30" width="40" />
+<a href="https://www.linkedin.com/in/nanda-ganesh-6b02b6225" target="_blank" rel="noopener noreferrer">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://github.com/ngyadav" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="ngyadav" height="30" width="40" />
+<a href="https://github.com/ngyadav" target="_blank" rel="noopener noreferrer">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/arr_deeee" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngyadav._.55" height="30" width="40" />
+<a href="https://instagram.com/ngyadav._.55" target="_blank" rel="noopener noreferrer">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 <a href="#" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" />
