@@ -12,6 +12,7 @@
 - 💬 Ask me about **React, FastAPI, System Design, or Cloud Architecture**
 - 👨‍💻 All of my projects are available: 
 <a href="https://github.com/ngyadav?tab=repositories" target="_blank" rel="noopener noreferrer">here</a>
+- 🌐 Portfolio: <a href="https://ngyadav.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer">View My Work</a>
 - 📫 Reach me at: **nandaganesh55@gmail.com**
 
 ---
