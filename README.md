@@ -9,7 +9,8 @@
 - 🌱 Exploring **AI/ML (LangChain, Gemini, LLMs) & System Design**  
 - ☁️ Experienced in **Google Cloud, AWS, Docker & Kubernetes**  
 - 🤝 Open to collaborate on **Full Stack, Cloud, and AI projects**  
-- 💬 Ask me about **React, FastAPI, System Design, or Cloud Architecture**  
+- 💬 Ask me about **React, FastAPI, System Design, or Cloud Architecture**
+- 👨‍💻 All of my projects are available: [here](https://github.com/ngyadav?tab=repositories)  
 - 📫 Reach me at: **nandaganesh55@gmail.com**
 
 ---
@@ -19,7 +20,7 @@
 <a href="https://www.linkedin.com/in/nanda-ganesh-6b02b6225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanda-ganesh" height="30" width="40" />
 </a>
-<a href="[https://github.com/ngyadav/Nandaganesh](https://github.com/ngyadav?tab=repositories)" target="blank">
+<a href="https://github.com/ngyadav" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="ngyadav" height="30" width="40" />
 </a>
 <a href="https://instagram.com/arr_deeee" target="blank">
